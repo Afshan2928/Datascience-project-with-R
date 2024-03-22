@@ -1,0 +1,12 @@
+name: app2024
+title: app2024
+username: my-shiny-afshan
+account: my-shiny-afshan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11539583
+bundleId: 8393970
+url: https://my-shiny-afshan.shinyapps.io/app2024/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
